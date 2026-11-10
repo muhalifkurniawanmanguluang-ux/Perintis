@@ -1,0 +1,6 @@
+{
+  "name": "PT Perintis Bermuda Perkasa",
+  "description": "Layanan penyewaan kapal tongkang (barge chartering) premium di seluruh perairan Indonesia oleh PT Perintis Bermuda Perkasa, mengoperasikan armada berukuran 270 ft, 300 ft, dan 330 ft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
